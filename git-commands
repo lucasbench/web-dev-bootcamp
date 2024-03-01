@@ -1,0 +1,6 @@
+//initialize repo
+git init
+//see whats inside staging area
+git status
+//add files to staging area
+git add . (. means all)
