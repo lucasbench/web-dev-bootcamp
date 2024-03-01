@@ -4,3 +4,7 @@ git init
 git status
 //add files to staging area
 git add . (. means all)
+or git add <file name>
+//commit to staging
+git commit -m "initila commit"
+//
